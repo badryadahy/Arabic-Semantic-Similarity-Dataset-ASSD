@@ -34,6 +34,12 @@ Resources
 2) The World Wide Web Pages Such as (https://mawdoo3.com).
 3) The Intermediate Lexicon. Definition of words to collect sentences.
 
+Organizers 
+..........................
+Badrya Dahy     Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
+Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
+Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
+
 Acknowledgements
 ..........................
 
