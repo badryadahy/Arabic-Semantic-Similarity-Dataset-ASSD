@@ -36,9 +36,9 @@ Resources
 
 Organizers 
 ..........................
-Badrya Dahy     Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
-Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
-Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt
+Badrya Dahy     Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , badryadahy@aun.edu.eg
+Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , mamfarouk@aun.edu.eg
+Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , khussain@aun.edu.eg
 
 Acknowledgements
 ..........................
