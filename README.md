@@ -40,6 +40,23 @@ Badrya Dahy     Department of Computer Science,Faculty of Computers and Informat
 Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , mamfarouk@aun.edu.eg
 Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , khussain@aun.edu.eg
 
+Information about the evaluators:
+
+Mr. Ahmed Refaat - an expert teacher at Al-Afadra Preparatory Combined School - Sahel Selim.
+
+Mr. Ghareeb Ahmed - a first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Saleem.
+
+Mrs. Rasha Hanafi Muhammad - the first Arabic language teacher at Al-Afadra Preparatory Co-ed School - Sahel Selim.
+
+Mrs. Eman Abdel-Zaher - the first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Selim.
+
+Mrs. Amany Issa Assem - Arabic language teacher at Al-Nahda School for Basic Education - New Assiut - Sahel Selim.
+
+Mrs. Asmaa Hassan Hammam - Arabic language teacher at the middle school - Tama.
+
+Mrs. Walaa Mahmoud - an Arabic language teacher at Mashta Secondary School - Tama.
+
+
 Acknowledgements
 ..........................
 
