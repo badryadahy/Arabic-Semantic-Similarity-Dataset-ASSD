@@ -48,19 +48,19 @@ Information about the evaluators:
 
 ..........................
 
-Mr. Ahmed Refaat - an expert teacher at Al-Afadra Preparatory Combined School - Sahel Selim.
+R1: Mr. Ahmed Refaat - an expert teacher at Al-Afadra Preparatory Combined School - Sahel Selim.
 
-Mr. Ghareeb Ahmed - a first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Saleem.
+R2: Mr. Ghareeb Ahmed - a first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Saleem.
 
-Mrs. Rasha Hanafi Muhammad - the first Arabic language teacher at Al-Afadra Preparatory Co-ed School - Sahel Selim.
+R3: Mrs. Rasha Hanafi Muhammad - the first Arabic language teacher at Al-Afadra Preparatory Co-ed School - Sahel Selim.
 
-Mrs. Eman Abdel-Zaher - the first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Selim.
+R4: Mrs. Eman Abdel-Zaher - the first teacher of Arabic language at Al-Afadra Preparatory Co-ed School - Sahel Selim.
 
-Mrs. Amany Issa Assem - Arabic language teacher at Al-Nahda School for Basic Education - New Assiut - Sahel Selim.
+R5: Mrs. Amany Issa Assem - Arabic language teacher at Al-Nahda School for Basic Education - New Assiut - Sahel Selim.
 
-Mrs. Asmaa Hassan Hammam - Arabic language teacher at the middle school - Tama.
+R6: Mrs. Asmaa Hassan Hammam - Arabic language teacher at the middle school - Tama.
 
-Mrs. Walaa Mahmoud - an Arabic language teacher at Mashta Secondary School - Tama.
+R7: Mrs. Walaa Mahmoud - an Arabic language teacher at Mashta Secondary School - Tama.
 
 
 Acknowledgements
