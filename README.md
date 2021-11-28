@@ -9,6 +9,7 @@ Arabic Similarity Dataset.xlsx         Contains pair of sentences and average hu
 Human Evluation.xlsx                   Contains pair of sentences and 7 human opiniones.
 
 Introduction
+
 ................
 
 This README describes the Arabic Semantic Similarity Dataset.
@@ -28,6 +29,7 @@ Each evaluation has the following format:
   * Each line contains the following fields: ASSD S1, ASSD S2,R1,R2,R3,R4,R5,R6,R7.
 
 Resources
+
 ....................
 
 1) Arabic Wikipedia(https://ar.wikipedia.org).
@@ -35,12 +37,16 @@ Resources
 3) The Intermediate Lexicon. Definition of words to collect sentences.
 
 Organizers 
+
 ..........................
+
 Badrya Dahy     Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , badryadahy@aun.edu.eg
 Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , mamfarouk@aun.edu.eg
 Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , khussain@aun.edu.eg
 
 Information about the evaluators:
+
+..........................
 
 Mr. Ahmed Refaat - an expert teacher at Al-Afadra Preparatory Combined School - Sahel Selim.
 
@@ -58,6 +64,7 @@ Mrs. Walaa Mahmoud - an Arabic language teacher at Mashta Secondary School - Tam
 
 
 Acknowledgements
+
 ..........................
 
 We would like to thank 7 specialists in Arabic language for their help in evaluatin process for 
