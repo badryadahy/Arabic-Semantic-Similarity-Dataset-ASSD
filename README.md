@@ -50,6 +50,8 @@ Mamdouh Farouk  Department of Computer Science,Faculty of Computers and Informat
 
 Khaled Fathy    Department of Computer Science,Faculty of Computers and Information,Assiut University, Egypt , khussain@aun.edu.eg
 
+This dataset is available for free download for this field ,please cit this papar (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691424&isnumber=9691306) (ASSD: Arabic Semantic Similarity Dataset)
+
 Information about the evaluators:
 
 ..........................
@@ -68,6 +70,7 @@ R6: Mrs. Asmaa Hassan Hammam - Arabic language teacher at the middle school - Ta
 
 R7: Mrs. Walaa Mahmoud - an Arabic language teacher at Mashta Secondary School - Tama.
 
+This dataset is available for free download for this field ,please cit this papar (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691424&isnumber=9691306) (ASSD: Arabic Semantic Similarity Dataset)
 
 Acknowledgements
 
