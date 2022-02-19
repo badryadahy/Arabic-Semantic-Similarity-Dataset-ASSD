@@ -8,6 +8,9 @@ README.txt                             This file.
 Arabic Similarity Dataset.xlsx         Contains pair of sentences and average human evluation.                                                    
 Human Evluation.xlsx                   Contains pair of sentences and 7 human opiniones.
 
+This dataset is available for free download for this field ,please cit this papar 
+(ASSD: Arabic Semantic Similarity Dataset)
+
 Introduction
 
 ................
