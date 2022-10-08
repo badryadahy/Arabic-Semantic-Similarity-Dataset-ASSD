@@ -6,7 +6,7 @@ The following files are provided:
 README.txt                             This file.
 
 Arabic Similarity Dataset.xlsx         Contains pair of sentences and average human evluation.                                                    
-Human Evluation.xlsx                   Contains pair of sentences and 7 human opiniones.
+
 
 This dataset is available for free download for this field ,please cit this papar 
 (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691424&isnumber=9691306)
@@ -25,12 +25,8 @@ Each evaluation has the following format:
 1) Arabic Similarity Dataset.xlsx file
 
   * One ASSD pair per line.
-  * Each line contains the following fields: ASSD S1, ASSD S2, Human Average.
-
-2) Human Evluation.xlsx file
-
-  * One ASSD pair per line.
-  * Each line contains the following fields: ASSD S1, ASSD S2,R1,R2,R3,R4,R5,R6,R7.
+  * Each line contains the following fields: ASSD S1, ASSD S2, R1,R2,R3,R4,R5,R6,R7 and Human Average.
+where R is the evaluator number which are seven evaluator.
 
 Resources
 
